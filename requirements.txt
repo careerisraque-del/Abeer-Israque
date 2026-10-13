@@ -1,0 +1,2 @@
+pyahocorasick>=2.0
+matplotlib>=3.7

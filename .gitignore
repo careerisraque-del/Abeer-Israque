@@ -1,0 +1,4 @@
+# Transcriptome downloads: ~165 MB, fetched by data/fetch.sh
+data/*.fna.gz
+data/*.fna
+__pycache__/
